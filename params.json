@@ -1,5 +1,5 @@
 {
-  "name": "Flag of Bangladesh Drawn by using SVG ",
+  "name": "Flag of Bangladesh using SVG ",
   "tagline": "bangladesh flag, svg, html",
   "body": "\r\n    <svg height=\"400\" width=\"200\">\r\n        <rect x=\"5\" y=\"0\" width=\"200\" height=\"100\" fill=\"#15744C\" />\r\n        <circle cx=\"95\" cy=\"50\" r=\"40\" fill=\"red\" />\r\n        <rect x=\"0\" y=\"0\" width=\"7\" height=\"300\" fill=\"black\" />\r\n\r\n    </svg>\r\n\r\n![Muminur](https://lh3.googleusercontent.com/-ejoAsUHvukE/VzN2PpZ6WFI/AAAAAAAAAl0/qOm-9ppI1cIz7-1YFtblUbYTC6V1QNOKACL0B/w748-d-h1118-p-rw/bd%2Bflag.png)\r\n\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
